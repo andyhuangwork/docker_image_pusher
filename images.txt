@@ -8,3 +8,8 @@ alpine
 mysql:8.0.32
 redis:7.2.5-alpine
 rabbitmq:3.12.9
+andyhuangwork/java:11.0.22-alpine
+andyhuangwork/java:11.0.23-alpine
+andyhuangwork/java:17.0.11-alpine
+andyhuangwork/java:8u111-alpine
+andyhuangwork/nginx:1.26.1
