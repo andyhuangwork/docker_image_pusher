@@ -14,3 +14,4 @@ andyhuangwork/java:17.0.11-alpine
 andyhuangwork/java:8u111-alpine
 andyhuangwork/nginx:1.26.1
 rabbitmq:3.13.3-management
+keking/kkfileview-base:4.4.0
