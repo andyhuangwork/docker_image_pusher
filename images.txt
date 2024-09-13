@@ -1,17 +1,20 @@
-#支持指定架构
+# 支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-alpine
-mysql:8.0.32
-redis:7.2.5-alpine
-rabbitmq:3.12.9
-andyhuangwork/java:11.0.22-alpine
-andyhuangwork/java:11.0.23-alpine
-andyhuangwork/java:17.0.11-alpine
-andyhuangwork/java:8u111-alpine
-andyhuangwork/nginx:1.26.1
-rabbitmq:3.13.3-management
-keking/kkfileview-base:4.4.0
+# 支持私库
+# k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+# xhofe/alist:latest
+# alpine
+# mysql:8.0.32
+# redis:7.2.5-alpine
+# rabbitmq:3.12.9
+# andyhuangwork/java:11.0.22-alpine
+# andyhuangwork/java:11.0.23-alpine
+# andyhuangwork/java:17.0.11-alpine
+# andyhuangwork/java:8u111-alpine
+# andyhuangwork/nginx:1.26.1
+# rabbitmq:3.13.3-management
+# keking/kkfileview-base:4.4.0
+
+sonarqube:10.1.0-community
+postgres:12.2
