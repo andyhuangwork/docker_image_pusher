@@ -16,5 +16,5 @@ nginx
 # rabbitmq:3.13.3-management
 # keking/kkfileview-base:4.4.0
 
-sonarqube:10.1.0-community
-postgres:12.2
+sonarqube:9.9.6-community
+postgres:14.5
