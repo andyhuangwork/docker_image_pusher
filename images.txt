@@ -16,5 +16,11 @@ nginx
 # rabbitmq:3.13.3-management
 # keking/kkfileview-base:4.4.0
 
-sonarqube:9.9.6-community
-postgres:14.5
+# sonarqube:9.9.6-community
+# postgres:14.5
+
+
+#  k8s  calico-3.25.0
+docker.io/calico/cni:v3.25.0
+docker.io/calico/node:v3.25.0
+docker.io/calico/kube-controllers:v3.25.0
