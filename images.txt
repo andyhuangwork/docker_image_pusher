@@ -26,6 +26,10 @@ nginx
 #  docker.io/calico/kube-controllers:v3.25.0
 
 # k8s ingress 
-registry.k8s.io/ingress-nginx/controller:v1.11.2
-registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.3
-registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.3
+# registry.k8s.io/ingress-nginx/controller:v1.11.2
+# registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.3
+# registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.3
+
+# k8s kuboard:v3
+eipwork/etcd-host:3.4.16-2
+eipwork/kuboard:v3
