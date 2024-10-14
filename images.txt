@@ -31,6 +31,9 @@ nginx
 # registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.3
 
 # k8s kuboard:v3
-eipwork/etcd-host:3.4.16-2
-eipwork/kuboard:v3
-questdb/questdb:6.0.5
+# eipwork/etcd-host:3.4.16-2
+# eipwork/kuboard:v3
+# questdb/questdb:6.0.5
+
+## 证件照
+linzeyi/hivision_idphotos
