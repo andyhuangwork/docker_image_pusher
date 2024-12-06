@@ -38,4 +38,5 @@ nginx
 ## 证件照
 # linzeyi/hivision_idphotos
 
-homeassistant
+# 智能家居
+homeassistant/home-assistant
