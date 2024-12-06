@@ -36,4 +36,6 @@ nginx
 # questdb/questdb:6.0.5
 
 ## 证件照
-linzeyi/hivision_idphotos
+# linzeyi/hivision_idphotos
+
+homeassistant:latest
