@@ -38,4 +38,4 @@ nginx
 ## 证件照
 # linzeyi/hivision_idphotos
 
-homeassistant:latest
+homeassistant
